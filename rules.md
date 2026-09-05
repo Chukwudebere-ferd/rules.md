@@ -303,4 +303,9 @@ Before considering frontend work done:
  Component reuse: no three different button styles for the same action.
  Runs clean through the project's lint/typecheck/test.
  When in doubt, ask: what would this industry's best example look like? Look for the standard-bearers (e.g., Stripe for developer tooling trust, Linear for task density, Apple for restraint in consumer). Study them, then design the industry, not a copy of the reference.
+
+
+ # github
+
+ never push anything to git, i will never ask u too. so dont, 
  
