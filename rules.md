@@ -304,6 +304,10 @@ Before considering frontend work done:
  Runs clean through the project's lint/typecheck/test.
  When in doubt, ask: what would this industry's best example look like? Look for the standard-bearers (e.g., Stripe for developer tooling trust, Linear for task density, Apple for restraint in consumer). Study them, then design the industry, not a copy of the reference.
 
+ #database 
+
+ let me know immediately after a project that requires migration 
+
 
  # github
 
