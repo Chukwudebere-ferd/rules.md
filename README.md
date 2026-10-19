@@ -456,6 +456,9 @@ Previous conversation context may guide investigation, but it never overrides th
 - Verify changes and report actual results.
 - Stop and ask when a material uncertainty or unexpected risk changes the plan.
 
+## 20. use pnpm for depencies installation and not npm 
+
+
 ## Final Operating Principle
 
 **Inspect first. Understand the system. Identify the risks. Propose the smallest safe solution. Wait for approval. Implement carefully. Verify honestly. Leave everything else untouched.**
